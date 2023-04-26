@@ -1,6 +1,6 @@
 ---
 icon: edit
-date: 2023-03-24 17:40:00.00 -3
+date: 2023-03-24
 tag:
   - ementa
 category:
@@ -10,7 +10,7 @@ index: false
 ---
 # Plano de Curso de Disciplina do Ensino Superior
 
-**CURSO:** Tecnologia em Análise e Desenvolvimento de Sistemas
+**CURSO:** Tecnologia em Análise e Desenvolvimento de Sistemas/Redes de Computadores
 
 **CAMPUS:** Santo Antônio de Jesus
 
@@ -18,61 +18,43 @@ index: false
 
 **PERÍODO LETIVO:** 2023.1
 
-**Código Disciplina:** COM07 Linguagem de Programação
+**Código Disciplina:** OPC14 - Tópicos Avançados em WEB II
 
-**Pré-requisitos da disciplina:** COM04 - Lógica de Programação
+**Pré-requisitos da disciplina:** -
 
-**Pré-requisito para:** COM11 - Programação Orientada a Objetos
+**Pré-requisito para:** -
 
 **Créditos**
 | Teóricos | Práticos | Estágio | Total |
 | :------: | :------: | :-----: | :---: |
-|    2     |    2     |    -    |   4   |
+|    2     |    -     |    -    |   2   |
 
 
 **Carga horária**
 | Teóricos | Práticos | Estágio | Total |
 | :------: | :------: | :-----: | :---: |
-|    30    |    30    |    -    |  60   |
+|    30    |    -     |    -    |  30   |
 
 ## Ementa
 
-- Modularização
-- Funções
-- Estruturas
-- Recursividade
-- Passagem de parâmetros por valor
-- Passagem de parâmetros por referência
-- Ponteiros
-- Alocação dinâmica
-- Arquivos.
+- Ferramentas de Controle de versão, Gerência de configuração e Integração contínua, soluções de virtualização de ambientes utilizando containers e WSL, Ferramentas de Builds, testes e Deploys automatizados.
 
 ## Objetivos
-- Continuar o desenvolvimento dos conceitos básicos de lógica de programação, estimulando o raciocínio lógico e estruturado para resolver problemas e desenvolver algoritmos, praticando conceitos com uso de uma linguagem de programação estruturada.
-- Habilitar o aluno a desenvolver algoritmos mais elaborados.
+- Apresentar conceitos e ferramentas relacionadas ao DevOps voltadas para o desenvolvimento de sistemas, operações de TI, engenharia da qualidade e segurança.
 
 ## Conteúdo programático
-1. Introdução
-    1. Lógica e Lógica de Programação
-    1. Algoritmos – Definição e estratégias de construção de algoritmos
-    1. Representação de algoritmos - Fluxogramas
-    1. Armazenamento de dados – variáveis
-    1. Decisão em Fluxogramas
-1. Introdução à linguagem C
-    1. Linguagens de programação, compiladores, interpretadores
-    1. Tipos de dados e operadores da linguagem
-    1. Entrada e saída de dados
-    1. Estruturas de seleção
-    1. Estruturas de repetição
-    1. Vetores e matrizes
-1. Modularização
-    1. Funções com retorno
-    1. Funções sem retorno
-1. Estruturas
-1. Recursão
-1. Ponteiros
-1. Alocação dinâmica de memória
-1. Arquivos
+- Controle de versão
+    - Evolução
+    - Git
+- Gerência de configuração e Integração contínua
+    - Hudson/Jenkins
+    - Github Actions,
+    - GitLab CI/CD
+- Virtualização
+    - Docker/Podman
+    - WSL
+- Maven
+- Gradle
 
 ## Metodologia
 
@@ -80,20 +62,19 @@ Aulas teóricas e demonstração de casos reais que ajudem na assimilação dos 
 
 ## Avaliação
 
-O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. Categorias de análise, tais como, o aproveitamento individual e a capacidade de interação do educando serão cruciais para avaliar o seu aproveitamento em todas as etapas da disciplina. De modo específico, serão realizadas atividades para casa, provas práticas e trabalho em grupo.
-
+O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. Categorias de análise, tais como, o aproveitamento individual e a capacidade de interação do educando serão cruciais para avaliar o seu aproveitamento em todas as etapas da disciplina. De modo específico, serão realizadas atividades para casa, provas práticas, seminários e trabalho em grupo.
 
 ## Bibliografia básica:
 
-- BACKES, A. **Linguagem C: Completa e Descomplicada**. Elsevier-Campus, 2013.
-- PEREIRA, S. L. **Algoritmos e Lógica de Programação Em C -Uma Abordagem Didática**. Érica, 2010.
-- SHILDT, H. **C - Completo e Total**. 3.ed. Makron Books, 2010.
+- CHACON, Scott. **Pro Git**, Segunda Edição, Português do Brasil (https://github.com/progit/progit2-pt-br/releases).
+- BEATTIE, T. **DevOps Culture and Practice with OpenShift. Deliver continuous business value through people, processes, and technology**. Packt Publishing Ltd, 2021(https://www.redhat.com/pt-br/engage/devops-culture-practice-openshift-ebooks).
+- **Jenkins Handbook** (https://www.jenkins.io/doc/book/)
 
 ## Bibliografia complementar:
-- ALBANO, R. S.; ALBANO, S. G. **Programação em Linguagem C**. Ciência Moderna, 2010.
-- DAMAS, L. **Linguagem C**. LTC, 2007.
-- FORBELLONE, A. L. **Introdução a Lógica de Programação.** 3.ed. Pearson Brasil, 2005.
-- LOPES, A.; GARCIA, G. **Introdução à Programação: 500 Algoritmos Resolvidos.** Campus, 2002.
-- ZIVIANI, N. **Projeto de Algoritmos –com implementação em Pascal e C**. 3.ed. Cengage Learning, 2010.
-
-
+- **Maven Getting Started Guide** (https://maven.apache.org/guides/getting-started/index.html)
+- **Gradle User Manual** (https://docs.gradle.org/current/userguide/userguide.html)
+- **Documentação do GitHub** Actions (https://docs.github.com/pt/actions)
+- **GitLab CI/CD** (https://docs.gitlab.com/ee/ci/)
+- **Docker** (https://docs.docker.com/get-started/overview/)
+- **Podman** (https://docs.podman.io/en/latest/index.html)
+- **Documentação do Subsistema Windows para Linux** (https://learn.microsoft.com/pt-br/windows/wsl/)
