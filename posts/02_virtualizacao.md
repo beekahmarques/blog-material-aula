@@ -74,6 +74,8 @@ No entanto, a virtualização também tem algumas desvantagens. As máquinas vir
 
 ## Windows Subsystem for Linux (WSL) 
 
+[^WSL]
+
 O Windows Subsystem for Linux (WSL) é uma plataforma de virtualização de sistema operacional que permite aos usuários do Windows executar distribuições Linux em um ambiente virtualizado. Ele foi introduzido pela Microsoft como uma forma de fornecer aos desenvolvedores do Windows um ambiente de linha de comando mais amigável para o desenvolvimento de aplicativos baseados em Linux.
 
 O WSL não é uma máquina virtual tradicional, mas sim um subsistema dentro do Windows que fornece uma camada de compatibilidade com o Linux. Ele usa a tecnologia de virtualização de recursos do Windows, como o Hyper-V, para criar um ambiente virtualizado que é executado em segundo plano. Isso permite que os usuários do Windows executem aplicativos baseados em Linux sem precisar instalar um sistema operacional Linux completo em uma máquina virtual.

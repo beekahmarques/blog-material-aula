@@ -13,3 +13,4 @@
 
 [^RUN_PODMAN]: Run Podman on Windows: How-to instructions? [https://www.redhat.com/sysadmin/run-podman-windows](https://www.redhat.com/sysadmin/run-podman-windows)
 
+[^WSL]: Documentação do Subsistema Windows para Linux [https://learn.microsoft.com/pt-br/windows/wsl/](https://learn.microsoft.com/pt-br/windows/wsl/)
