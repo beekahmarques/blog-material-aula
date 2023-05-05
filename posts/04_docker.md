@@ -30,9 +30,9 @@ Em resumo, o Podman e o Docker têm suas próprias vantagens e desvantagens, e a
 ### Play With Docker 
 
 
-https://www.docker.com/101-tutorial/
+[https://www.docker.com/101-tutorial/](https://www.docker.com/101-tutorial/)
 
-https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
+[https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
 
 ```console
 docker run -it --rm -d -p 8080:80 --name web nginx
