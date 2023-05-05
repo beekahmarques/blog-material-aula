@@ -53,8 +53,7 @@ index: false
 - Virtualização
     - Docker/Podman
     - WSL
-- Maven
-- Gradle
+- IaC (infraestrutura como código)
 
 ## Metodologia
 
@@ -71,10 +70,9 @@ O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. C
 - **Jenkins Handbook** (https://www.jenkins.io/doc/book/)
 
 ## Bibliografia complementar:
-- **Maven Getting Started Guide** (https://maven.apache.org/guides/getting-started/index.html)
-- **Gradle User Manual** (https://docs.gradle.org/current/userguide/userguide.html)
 - **Documentação do GitHub** Actions (https://docs.github.com/pt/actions)
 - **GitLab CI/CD** (https://docs.gitlab.com/ee/ci/)
 - **Docker** (https://docs.docker.com/get-started/overview/)
 - **Podman** (https://docs.podman.io/en/latest/index.html)
 - **Documentação do Subsistema Windows para Linux** (https://learn.microsoft.com/pt-br/windows/wsl/)
+- **O que é IaC (infraestrutura como código)?** (https://learn.microsoft.com/pt-br/devops/deliver/what-is-infrastructure-as-code)
