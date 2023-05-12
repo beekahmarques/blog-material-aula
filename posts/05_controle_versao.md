@@ -1,3 +1,14 @@
+---
+icon: edit
+date: 2023-05-12 20:40:00.00 -3
+tag:
+  - controle_versao
+  - git
+category:
+  - aula
+order: 5
+---
+
 # Controle de Versão
 
 ## Cenário sem Controle de versão
