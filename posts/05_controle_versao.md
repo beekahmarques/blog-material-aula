@@ -177,6 +177,8 @@ Ao longo dos anos, os sistemas de controle de versão evoluíram para fornecer r
 
 [^WKM]: O que é e porque usar um sistema de controle de versão? [https://blog.wkm.com.br/o-que-%C3%A9-e-porque-usar-um-sistema-de-controle-de-vers%C3%A3o-23f00b08e12d](https://blog.wkm.com.br/o-que-%C3%A9-e-porque-usar-um-sistema-de-controle-de-vers%C3%A3o-23f00b08e12d)
 
+[Link ebook GIT](https://git-scm.com/book/pt-br/v2)
+
 <!-- 
 Entendendo GIT | (não é um tutorial!) - YouTube
 https://www.youtube.com/watch?v=6Czd1Yetaac
