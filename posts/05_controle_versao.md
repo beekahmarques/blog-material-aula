@@ -179,6 +179,8 @@ Ao longo dos anos, os sistemas de controle de versão evoluíram para fornecer r
 
 [Link ebook GIT](https://git-scm.com/book/pt-br/v2)
 
+[Repositório para teste](https://github.com/20231-ifba-saj-ads-tawii/repo_teste)
+
 <!-- 
 Entendendo GIT | (não é um tutorial!) - YouTube
 https://www.youtube.com/watch?v=6Czd1Yetaac
