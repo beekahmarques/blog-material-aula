@@ -1,7 +1,7 @@
 
 # GitFlow
 <!-- 
-
+//rebeca_marques
 Modelo de fluxo de trabalho para versionamento de código que visa manter um processo organizado e padronizado entre as branches. 
 
 Git - git flow na prática - YouTube
